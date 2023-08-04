@@ -1,0 +1,12 @@
+1.  /normandy/toolbox/dockerbox/securityw/docker-bench-security
+            https://github.com/trinityzhub/docker-bench-security.git
+            git submodule update --init -- dockerbox/securityw/docker-bench-security
+            git submodule  add https://github.com/trinityzhub/docker-bench-security.git  dockerbox/securityw/docker-bench-security
+
+
+
+
+
+
+
+
